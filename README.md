@@ -1,5 +1,5 @@
 ## HEY 😃, WELCOME TO MY GITHUB PROFILE 👋
-### < A FRONTEND DEVELOPER & A COMPETITIVE PROGRAMMER 🎯> 
+
 
 ![github](https://github.com/AkshayK25/AkshayK25/blob/master/hero.gif)
 
